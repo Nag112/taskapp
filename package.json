@@ -1,0 +1,19 @@
+{
+  "name": "node_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nag112/taskapp.git"
+  },
+  "author": "Nagacharan.K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nag112/taskapp/issues"
+  },
+  "homepage": "https://github.com/Nag112/taskapp#readme"
+}
