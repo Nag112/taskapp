@@ -1,6 +1,12 @@
-function getNotes()
-{
-    return "Your notes.....";
+const fs = require('fs')
+function getNotes() {
+  return "Your notes.....";
 }
-
-module.exports = getNotes;
+function saveNotes() {
+  return "notes saved";
+}
+function readNote(){
+    debugger
+    return fs.readFileSync('./notes.txt').toString()     
+}
+module.exports = {getNotes,readNote};

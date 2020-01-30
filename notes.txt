@@ -1,4 +1,1 @@
-Hello function name()
-{
-    return "nag"
-}
+Hello NagC
