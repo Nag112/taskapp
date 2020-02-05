@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Nag112/taskapp#readme",
   "dependencies": {
     "chalk": "^3.0.0",
+    "request": "^2.88.0",
     "validator": "^12.2.0",
     "yargs": "^15.1.0"
   }
